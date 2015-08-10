@@ -4,7 +4,7 @@
    is ghdf hgf hfg
 */
 hgdhgd
-# include <iostream> 
+# include 1<iostream> 
 main()
 {
   char *buffer = (char *)malloc(10 * sizeof(char));
