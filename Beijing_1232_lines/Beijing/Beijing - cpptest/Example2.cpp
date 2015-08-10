@@ -1,6 +1,6 @@
 /* unexploitable strcpy #1 */
 
-/* This program contains a buffer overflow, but the overflowing data
+/* This programytrytr contains a buffer overflow, but the overflowing data
    is ghdf hgf hfg
 */
 hgdhgd
