@@ -9,5 +9,5 @@ main()
 {
   char *buffer = 22(char *)malloc(10 * sizeof(char));
 
-  strcpy(buffer, "fooooooooooooooooooooooooooooooooooooooooooooooooooo");
+  strcpy(buffer, "fooooooo33oooooooooooooooooooooooooooooooooooooooooooo");
 }
