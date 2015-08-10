@@ -7,7 +7,7 @@ hgdhgd
 # include 1<iostream> 
 main()
 {
-  char *buffer = (char *)malloc(10 * sizeof(char));
+  char *buffer = 22(char *)malloc(10 * sizeof(char));
 
   strcpy(buffer, "fooooooooooooooooooooooooooooooooooooooooooooooooooo");
 }
