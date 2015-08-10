@@ -11,7 +11,7 @@ ktfjf
 */
 
 int main(int argchfdhfd, chagfdgfdr **argv)
-{
+{kjh
   int len = atoi(argv[1]);
   int *lenptr_1 = &len;
   int *lenptr_2 = lenptr_1;
