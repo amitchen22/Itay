@@ -4,7 +4,7 @@
   memcpy(buff, user_input, strlen(user_input)+1);
   return 0;
  }
- 
+ iyihjk
   int main(int argc, char *argv[]){
   get_buff(argv[1]);
   return 0;
