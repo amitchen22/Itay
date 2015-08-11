@@ -8,7 +8,7 @@ analysis is needed too.
 The variable that determines the size of a string copy is untainted,
 but alias analysis is needed to determine this.
 
-*/
+*/gfdgdf
 # include <iostream>
 int main(int argc, char **argv)
 {
