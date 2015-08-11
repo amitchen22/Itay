@@ -7,7 +7,7 @@ using namespace std;
 
   int main(void) {
   char buf[12];
-  cin >> buf;
+  //cin >> buf;
   cout << "echo: " << buf << endl;
 
  }
