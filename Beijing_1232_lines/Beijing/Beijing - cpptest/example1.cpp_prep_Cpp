@@ -16,7 +16,7 @@ int main(int argchfdhfd, chagfdgfdr **argv)
   int *lenptr_1 = &len;
   int *lenptr_2 = lenptr_1;
   char buffer[24];
-
+uty
   *lenptr_2 = 23;
   strncpy(buffer, argv[2], *lenptr_1);
 }
