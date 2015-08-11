@@ -9,8 +9,7 @@ The variable that determines,jgkg the size of a string copy is untainted,
 but alias analysis is nelk;lkeded to determine this.
 ktfjf
 */
-kj;jjhgjhjghgv[1]);
-  int *lenptr_1 = &len;
+jhg  int *lenptr_1 = &len;
   int *lenptr_2 = lenptr_1;
   char buffer[24];
 uty
