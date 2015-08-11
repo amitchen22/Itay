@@ -19,4 +19,58 @@ int main(int argc, char **argv)
 
   *lenptr_2 = 23;
   strncpy(buffer, argv[2], *lenptr_1);
+}int main(int argc, char **argv)
+{
+  int len = atoi(argv[1]);
+  int *lenptr_1 = &len;
+  int *lenptr_2 = lenptr_1;
+  char buffer[24];
+
+  *lenptr_2 = 23;
+  strncpy(buffer, argv[2], *lenptr_1);
+}int main(int argc, char **argv)
+{
+  int len = atoi(argv[1]);
+  int *lenptr_1 = &len;
+  int *lenptr_2 = lenptr_1;
+  char buffer[24];
+
+  *lenptr_2 = 23;
+  strncpy(buffer, argv[2], *lenptr_1);
+}int main(int argc, char **argv)
+{
+  int len = atoi(argv[1]);
+  int *lenptr_1 = &len;
+  int *lenptr_2 = lenptr_1;
+  char buffer[24];
+
+  *lenptr_2 = 23;
+  strncpy(buffer, argv[2], *lenptr_1);
+}int main(int argc, char **argv)
+{
+  int len = atoi(argv[1]);
+  int *lenptr_1 = &len;
+  int *lenptr_2 = lenptr_1;
+  char buffer[24];
+
+  *lenptr_2 = 23;
+  strncpy(buffer, argv[2], *lenptr_1);
+}int main(int argc, char **argv)
+{
+  int len = atoi(argv[1]);
+  int *lenptr_1 = &len;
+  int *lenptr_2 = lenptr_1;
+  char buffer[24];
+
+  *lenptr_2 = 23;
+  strncpy(buffer, argv[2], *lenptr_1);
+}int main(int argc, char **argv)
+{
+  int len = atoi(argv[1]);
+  int *lenptr_1 = &len;
+  int *lenptr_2 = lenptr_1;
+  char buffer[24];
+
+  *lenptr_2 = 23;
+  strncpy(buffer, argv[2], *lenptr_1);
 }
