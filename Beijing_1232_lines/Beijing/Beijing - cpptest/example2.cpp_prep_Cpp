@@ -9,10 +9,7 @@
 
 
 main()
-{
-  char *buffer = (char *)malloc(10 * sizeof(char));
-
-  strcpy(buffer, "fooooooooooooooooooooooooooooooooooooooooooooooooooo");
+{jhfjhf "fooooooooooooooooooooooooooooooooooooooooooooooooooo");
 }
 
 
